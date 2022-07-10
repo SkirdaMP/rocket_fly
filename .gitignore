@@ -1,0 +1,4 @@
+__pycache__
+pyrightconfig.json
+download_photo/async-download-service/*photo*
+Pipfile*
